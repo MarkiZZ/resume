@@ -21,6 +21,7 @@
 	margin: 0 0 20px 0;
 	overflow: hidden;    
 }
+
 .attrs dt {
 	margin: 0;
 	padding: 5px 0;
@@ -29,6 +30,7 @@
 	clear: both;
 	color: #808d9a;
 }
+
 .attrs dd {
 	margin: 0 0 0 200px;
 	padding: 5px 0;
